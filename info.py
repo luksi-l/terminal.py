@@ -1,7 +1,0 @@
-print("what's new?")
-print()
-print("new commands!")
-print("more easter eggs!")
-print("bug fixed!")
-print("installing gedit packages are posible but gedit can't be runned!")
-input("press enter to exit . . .")
